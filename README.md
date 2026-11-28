@@ -13,6 +13,10 @@ Amazon, eBay and 1688/AliExpress product data for AI agents: prices, demand, sol
 | [China Sourcing Finder: 1688 Factory vs AliExpress Prices](https://apify.com/henrycrawl/china-sourcing-finder) | $0.004 per product found ($4 per 1,000). Error rows and blocked pages are not charged. |
 
 
+**Ready-made examples (open, change the input, run):**
+- [eBay seller store: listings + price stats (min/median/max)](https://apify.com/henrycrawl/ebay-seller-scraper/examples/ebay-seller-store-price-stats)
+- [Amazon search: prices, ratings and sponsored flags by keyword](https://apify.com/henrycrawl/amazon-products-scraper/examples/amazon-search-price-rating-sponsored)
+
 ## Remote MCP server for the whole bundle
 Remote URL (Claude "Add custom connector", Cursor, any MCP client):
 
